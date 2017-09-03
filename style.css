@@ -1,0 +1,31 @@
+h1 {
+  text-align: center;
+  color: #2B3BA0;
+}
+h2 {
+  color:#C97C5D;
+}
+p {
+  font-size: 18px;
+  color: #2B3BA0;
+}
+tr {
+  cursor: pointer;
+}
+#searchBar {
+  margin: 15px 10px;
+}
+.Word{
+  color:#C97C5D;
+}
+.DetailedInfo {
+  text-align: left;
+  color: #2B3BA0;
+}
+.form-group {
+  padding: 5px;
+}
+.tableWrapper {
+  max-height: 400px;
+  overflow: auto;
+}
